@@ -1,4 +1,6 @@
-# ruby-getting-started
+# blue-friday
+
+Based on heroku's `ruby-getting-started` starter application
 
 A barebones Rails app, which can easily be deployed to Heroku.
 
