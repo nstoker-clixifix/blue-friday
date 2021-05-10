@@ -17,7 +17,7 @@ gem 'bootsnap', require: false
 gem 'listen', '>= 3.1.5'
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails', '>= 4.3.1'
+gem 'jquery-rails', '>= 4.4.0'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
